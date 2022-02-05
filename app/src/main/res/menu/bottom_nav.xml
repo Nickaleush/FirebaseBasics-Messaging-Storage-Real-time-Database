@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:id="@+id/cloud"
+        android:icon="@drawable/ic_action_database"
+        android:title="Загрузка"
+      />
+    <item
+        android:id="@+id/files"
+        android:icon="@drawable/ic_fileslist"
+        android:title="Галерея"
+
+        />
+    <item
+        android:id="@+id/messageList"
+        android:icon="@drawable/ic_messages"
+        android:title="Заметки"
+
+        />
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_profile"
+        android:title="Профиль"
+
+        />
+</menu>

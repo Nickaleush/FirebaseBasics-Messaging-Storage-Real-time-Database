@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MSI/Desktop/Android/AS/Settings123/app/src/main/res/drawable/frgt_pswrd.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/MSI/Desktop/Android/AS/Settings123/app/src/main/res/drawable/gg.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/MSI/Desktop/Android/AS/Settings123/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/MSI/Desktop/Android/AS/Settings123/app/src/main/res/drawable/login_background.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/MSI/Desktop/Android/AS/Settings123/app/src/main/res/drawable/login_edit_background.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/MSI/Desktop/Android/AS/Settings123/app/src/main/res/drawable/sign_up_background.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/MSI/Desktop/Android/AS/Settings123/app/src/main/res/drawable/signup.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/MSI/Desktop/Android/AS/Settings123/app/src/main/res/layout/activity_main.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/MSI/Desktop/Android/AS/Settings123/app/src/main/res/layout/activity_sing_up.xml" value="0.1140625" />
+        <entry key="..\:/Users/MSI/Desktop/Android/AS/Settings123/app/src/main/res/layout/fragment_logout.xml" value="0.264" />
+        <entry key="..\:/Users/MSI/Desktop/Android/AS/Settings123/app/src/main/res/layout/fragment_settings.xml" value="0.2" />
+        <entry key="..\:/Users/MSI/Desktop/Android/AS/Settings123/app/src/main/res/layout/messages.xml" value="0.2" />
+        <entry key="..\:/Users/MSI/Desktop/Android/AS/Settings123/app/src/main/res/layout/update_message.xml" value="0.2" />
+        <entry key="..\:/Users/MSI/Desktop/Android/AS/Settings123/app/src/main/res/menu/bottom_nav.xml" value="0.1140625" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/drawable-anydpi/ic_action_calculator.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/drawable-anydpi/ic_action_database.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/drawable-anydpi/ic_action_logout.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/drawable-anydpi/ic_camera.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/drawable-anydpi/ic_fileslist.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/drawable-anydpi/ic_messages.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/drawable-anydpi/ic_remove_item.xml" value="0.14427083333333332" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/drawable-anydpi/ic_signout.xml" value="0.2703125" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/drawable/111_background.xml" value="0.12604166666666666" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/drawable/btnshape.xml" value="0.13125" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/drawable/editborder.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/drawable/frgt_pswrd.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/drawable/gg.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/drawable/ic_icon3_background.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/drawable/login_background.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/drawable/login_edit_background.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/drawable/rounded_selected_photo_button.xml" value="0.2703125" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/drawable/sign_up_background.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/drawable/signup.xml" value="0.13385416666666666" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/layout/activity_main.xml" value="0.14351851851851852" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/layout/activity_sing_up.xml" value="0.1" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/layout/dialog_wallpaper.xml" value="0.2" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/layout/forgot_password.xml" value="0.2" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/layout/fragment_calculator.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/layout/fragment_cloudload.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/layout/fragment_icandoanything.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/layout/fragment_loadfiles.xml" value="0.136" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/layout/fragment_logout.xml" value="0.11770833333333333" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/layout/fragment_messagelist.xml" value="0.1597222222222222" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/layout/fragment_profile.xml" value="0.2" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/layout/fragment_registration.xml" value="0.152" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/layout/fragment_settings.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/layout/fragment_storage.xml" value="0.2" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/layout/item.xml" value="0.15052083333333333" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/layout/messages.xml" value="0.5558375634517766" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/layout/swipelist.xml" value="0.128125" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/layout/update_message.xml" value="0.2" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/menu/bottom_nav.xml" value="0.1" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/menu/nav_menu.xml" value="0.1" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/mipmap-anydpi-v26/ic_icon3.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/MSI/Desktop/KursachITUshakov/app/src/main/res/mipmap-anydpi-v26/ic_icon3_round.xml" value="0.13385416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

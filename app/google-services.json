@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "959931132365",
+    "firebase_url": "https://calculatorbottomactivity.firebaseio.com",
+    "project_id": "calculatorbottomactivity",
+    "storage_bucket": "calculatorbottomactivity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959931132365:android:46dbd0ab136fe3c6a3fc84",
+        "android_client_info": {
+          "package_name": "com.example.calculatorbottomactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959931132365-anu8nf0u3k8n7nlroaspmkelul77qjns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBedqe3ADKMuNU6Gt6HLffqdQ4acm-_MDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959931132365-anu8nf0u3k8n7nlroaspmkelul77qjns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

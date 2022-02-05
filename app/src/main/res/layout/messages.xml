@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    >
+    <TextView
+        android:textSize="28dp"
+        android:id="@+id/textViewMes"
+        android:layout_width="250dp"
+        android:fontFamily="serif"
+        android:textColor="@color/black"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+    <TextView
+        android:id="@+id/TextViewUpdate"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:fontFamily="serif"
+        android:text="Изменить"
+        android:textColor="@color/black"
+        android:textSize="13dp"
+        android:textStyle="italic" />
+</LinearLayout>
